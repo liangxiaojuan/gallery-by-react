@@ -3,11 +3,11 @@
   height: 100%;
 }
 
-/* @font-face {
+@font-face {
     font-family: "icons-turn-arrow";
     src: url("../fonts/icons/turn-arrow.eot") format("embedded-opentype"), url("../fonts/icons/turn-arrow.woff") format("woff"), url("../fonts/icons/turn-arrow.ttf") format("truetype"), url("../fonts/icons/turn-arrow.svg") format("svg");
 }
- */
+
 html,body{
   @include dis_whole;
   background-color: #222;
